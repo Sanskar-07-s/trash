@@ -1,0 +1,21 @@
+# Executables and build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Temporary log / text files generated during runs
+simple.txt
+source.txt
+destination.txt
+appended_log.txt
+system_log.txt
+
+# OS / Editor files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
