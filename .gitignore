@@ -7,6 +7,13 @@
 *.ilk
 *.idb
 
+# Notes, PDFs, and Documents (per repository policy: code only)
+*.pdf
+*.doc
+*.docx
+CPP_Oral_Exam_Quick_Revision_Notes.md
+generate_notes_pdf.py
+
 # Temporary log / text files generated during runs
 simple.txt
 source.txt
